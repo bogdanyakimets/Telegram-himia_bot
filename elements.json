@@ -1,0 +1,830 @@
+{
+    "гідроген": {
+        "name": "Гідроген",
+        "symbol": "H",
+        "atomic_mass": 1.008,
+        "number": 1,
+        "period": 1
+    },
+    "гелій": {
+        "name": "Гелій",
+        "symbol": "He",
+        "atomic_mass": 4.0026,
+        "number": 2,
+        "period": 1
+    },
+    "літій": {
+        "name": "Літій",
+        "symbol": "Li",
+        "atomic_mass": 6.94,
+        "number": 3,
+        "period": 2
+    },
+    "берилій": {
+        "name": "Берилій",
+        "symbol": "Be",
+        "atomic_mass": 9.0122,
+        "number": 4,
+        "period": 2
+    },
+    "бор": {
+        "name": "Бор",
+        "symbol": "B",
+        "atomic_mass": 10.81,
+        "number": 5,
+        "period": 2
+    },
+    "карбон": {
+        "name": "Карбон",
+        "symbol": "C",
+        "atomic_mass": 12.011,
+        "number": 6,
+        "period": 2
+    },
+    "нітроген": {
+        "name": "Нітроген",
+        "symbol": "N",
+        "atomic_mass": 14.007,
+        "number": 7,
+        "period": 2
+    },
+    "оксиген": {
+        "name": "Оксиген",
+        "symbol": "O",
+        "atomic_mass": 15.999,
+        "number": 8,
+        "period": 2
+    },
+    "флуор": {
+        "name": "Флуор",
+        "symbol": "F",
+        "atomic_mass": 18.998,
+        "number": 9,
+        "period": 2
+    },
+    "неон": {
+        "name": "Неон",
+        "symbol": "Ne",
+        "atomic_mass": 20.180,
+        "number": 10,
+        "period": 2
+    },
+    "натрій": {
+        "name": "Натрій",
+        "symbol": "Na",
+        "atomic_mass": 22.990,
+        "number": 11,
+        "period": 3
+    },
+    "магній": {
+        "name": "Магній",
+        "symbol": "Mg",
+        "atomic_mass": 24.305,
+        "number": 12,
+        "period": 3
+    },
+    "алюміній": {
+        "name": "Алюміній",
+        "symbol": "Al",
+        "atomic_mass": 26.982,
+        "number": 13,
+        "period": 3
+    },
+    "силіцій": {
+        "name": "Силіцій",
+        "symbol": "Si",
+        "atomic_mass": 28.085,
+        "number": 14,
+        "period": 3
+    },
+    "фосфор": {
+        "name": "Фосфор",
+        "symbol": "P",
+        "atomic_mass": 30.974,
+        "number": 15,
+        "period": 3
+    },
+    "сульфур": {
+        "name": "Сульфур",
+        "symbol": "S",
+        "atomic_mass": 32.060,
+        "number": 16,
+        "period": 3
+    },
+    "хлор": {
+        "name": "Хлор",
+        "symbol": "Cl",
+        "atomic_mass": 35.453,
+        "number": 17,
+        "period": 3
+    },
+    "аргон": {
+        "name": "Аргон",
+        "symbol": "Ar",
+        "atomic_mass": 39.948,
+        "number": 18,
+        "period": 3
+    },
+    "калій": {
+        "name": "Калій",
+        "symbol": "K",
+        "atomic_mass": 39.098,
+        "number": 19,
+        "period": 4
+    },
+    "кальцій": {
+        "name": "Кальцій",
+        "symbol": "Ca",
+        "atomic_mass": 40.078,
+        "number": 20,
+        "period": 4
+    },
+    "скандій": {
+        "name": "Скандій",
+        "symbol": "Sc",
+        "atomic_mass": 44.956,
+        "number": 21,
+        "period": 4
+    },
+    "титан": {
+        "name": "Титан",
+        "symbol": "Ti",
+        "atomic_mass": 47.867,
+        "number": 22,
+        "period": 4
+    },
+    "ванадій": {
+        "name": "Ванадій",
+        "symbol": "V",
+        "atomic_mass": 50.942,
+        "number": 23,
+        "period": 4
+    },
+    "хром": {
+        "name": "Хром",
+        "symbol": "Cr",
+        "atomic_mass": 51.996,
+        "number": 24,
+        "period": 4
+    },
+    "манган": {
+        "name": "Манган",
+        "symbol": "Mn",
+        "atomic_mass": 54.938,
+        "number": 25,
+        "period": 4
+    },
+    "ферум": {
+        "name": "Ферум",
+        "symbol": "Fe",
+        "atomic_mass": 55.845,
+        "number": 26,
+        "period": 4
+    },
+    "кобальт": {
+        "name": "Кобальт",
+        "symbol": "Co",
+        "atomic_mass": 58.933,
+        "number": 27,
+        "period": 4
+    },
+    "нікол": {
+        "name": "Нікол",
+        "symbol": "Ni",
+        "atomic_mass": 58.693,
+        "number": 28,
+        "period": 4
+    },
+    "купрум": {
+        "name": "Купрум",
+        "symbol": "Cu",
+        "atomic_mass": 63.546,
+        "number": 29,
+        "period": 4
+    },
+    "цинк": {
+        "name": "Цинк",
+        "symbol": "Zn",
+        "atomic_mass": 65.38,
+        "number": 30,
+        "period": 4
+    },
+    "галій": {
+        "name": "Галій",
+        "symbol": "Ga",
+        "atomic_mass": 69.723,
+        "number": 31,
+        "period": 4
+    },
+    "германій": {
+        "name": "Германій",
+        "symbol": "Ge",
+        "atomic_mass": 72.630,
+        "number": 32,
+        "period": 4
+    },
+    "арсен": {
+        "name": "Арсен",
+        "symbol": "As",
+        "atomic_mass": 74.922,
+        "number": 33,
+        "period": 4
+    },
+    "селен": {
+        "name": "Селен",
+        "symbol": "Se",
+        "atomic_mass": 78.971,
+        "number": 34,
+        "period": 4
+    },
+    "бром": {
+        "name": "Бром",
+        "symbol": "Br",
+        "atomic_mass": 79.904,
+        "number": 35,
+        "period": 4
+    },
+    "криптон": {
+        "name": "Криптон",
+        "symbol": "Kr",
+        "atomic_mass": 83.798,
+        "number": 36,
+        "period": 4
+    },
+    "Рубідій": {
+        "name": "Рубідій",
+        "symbol": "Rb",
+        "atomic_mass": 85.468,
+        "number": 37,
+        "period": 5
+    },
+    "Стронцій": {
+        "name": "Стронцій",
+        "symbol": "Sr",
+        "atomic_mass": 87.62,
+        "number": 38,
+        "period": 5
+    },
+    "Ітрій": {
+        "name": "Ітрій",
+        "symbol": "Y",
+        "atomic_mass": 88.906,
+        "number": 39,
+        "period": 5
+    },
+    "Цирконій": {
+        "name": "Цирконій",
+        "symbol": "Zr",
+        "atomic_mass": 91.224,
+        "number": 40,
+        "period": 5
+    },
+    "Ніобій": {
+        "name": "Ніобій",
+        "symbol": "Nb",
+        "atomic_mass": 92.906,
+        "number": 41,
+        "period": 5
+    },
+    "Молібден": {
+        "name": "Молібден",
+        "symbol": "Mo",
+        "atomic_mass": 95.95,
+        "number": 42,
+        "period": 5
+    },
+    "Техенцій": {
+        "name": "Техенцій",
+        "symbol": "Tc",
+        "atomic_mass": 98,
+        "number": 43,
+        "period": 5
+    },
+    "Рутеній": {
+        "name": "Рутеній",
+        "symbol": "Ru",
+        "atomic_mass": 101.07,
+        "number": 44,
+        "period": 5
+    },
+    "Родій": {
+        "name": "Родій",
+        "symbol": "Rh",
+        "atomic_mass": 102.91,
+        "number": 45,
+        "period": 5
+    },
+    "Паладій": {
+        "name": "Паладій",
+        "symbol": "Pd",
+        "atomic_mass": 106.42,
+        "number": 46,
+        "period": 5
+    },
+    "Аргентум": {
+        "name": "Аргентум",
+        "symbol": "Ag",
+        "atomic_mass": 107.87,
+        "number": 47,
+        "period": 5
+    },
+    "Кадмій": {
+        "name": "Кадмій",
+        "symbol": "Cd",
+        "atomic_mass": 112.41,
+        "number": 48,
+        "period": 5
+    },
+    "Індій": {
+        "name": "Індій",
+        "symbol": "In",
+        "atomic_mass": 114.82,
+        "number": 49,
+        "period": 5
+    },
+    "Станум": {
+        "name": "Станум",
+        "symbol": "Sn",
+        "atomic_mass": 118.71,
+        "number": 50,
+        "period": 5
+    },
+    "Стибій": {
+        "name": "Стибій",
+        "symbol": "Sb",
+        "atomic_mass": 121.76,
+        "number": 51,
+        "period": 5
+    },
+    "Телур": {
+        "name": "Телур",
+        "symbol": "Te",
+        "atomic_mass": 127.60,
+        "number": 52,
+        "period": 5
+    },
+    "Йод": {
+        "name": "Йод",
+        "symbol": "I",
+        "atomic_mass": 126.90,
+        "number": 53,
+        "period": 5
+    },
+    "Ксенон": {
+        "name": "Ксенон",
+        "symbol": "Xe",
+        "atomic_mass": 131.29,
+        "number": 54,
+        "period": 5
+    },
+    "Цезій": {
+        "name": "Цезій",
+        "symbol": "Cs",
+        "atomic_mass": 132.91,
+        "number": 55,
+        "period": 6
+    },
+    "Барій": {
+        "name": "Барій",
+        "symbol": "Ba",
+        "atomic_mass": 137.33,
+        "number": 56,
+        "period": 6
+    },
+    "Лантан": {
+        "name": "Лантан",
+        "symbol": "La",
+        "atomic_mass": 138.91,
+        "number": 57,
+        "period": 6
+    },
+    "Гафній": {
+        "name": "Гафній",
+        "symbol": "Hf",
+        "atomic_mass": 178.49,
+        "number": 72,
+        "period": 6
+    },
+    "Тантал": {
+        "name": "Тантал",
+        "symbol": "Ta",
+        "atomic_mass": 180.95,
+        "number": 73,
+        "period": 6
+    },
+    "Вольфрам": {
+        "name": "Вольфрам",
+        "symbol": "W",
+        "atomic_mass": 183.84,
+        "number": 74,
+        "period": 6
+    },
+    "Реній": {
+        "name": "Реній",
+        "symbol": "Re",
+        "atomic_mass": 186.21,
+        "number": 75,
+        "period": 6
+    },
+    "Осмій": {
+        "name": "Осмій",
+        "symbol": "Os",
+        "atomic_mass": 190.23,
+        "number": 76,
+        "period": 6
+    },
+    "Іридій": {
+        "name": "Іридій",
+        "symbol": "Ir",
+        "atomic_mass": 192.22,
+        "number": 77,
+        "period": 6
+    },
+    "Платина": {
+        "name": "Платина",
+        "symbol": "Pt",
+        "atomic_mass": 195.08,
+        "number": 78,
+        "period": 6
+    },
+    "Аурум": {
+        "name": "Аурум",
+        "symbol": "Au",
+        "atomic_mass": 196.97,
+        "number": 79,
+        "period": 6
+    },
+    "Меркурій": {
+        "name": "Меркурій",
+        "symbol": "Hg",
+        "atomic_mass": 200.59,
+        "number": 80,
+        "period": 6
+    },
+    "Талій": {
+        "name": "Талій",
+        "symbol": "Tl",
+        "atomic_mass": 204.38,
+        "number": 81,
+        "period": 6
+    },
+    "Плюмбум": {
+        "name": "Плюмбум",
+        "symbol": "Pb",
+        "atomic_mass": 207.2,
+        "number": 82,
+        "period": 6
+    },
+    "Бісмут": {
+        "name": "Бісмут",
+        "symbol": "Bi",
+        "atomic_mass": 208.98,
+        "number": 83,
+        "period": 6
+    },
+    "Полоній": {
+        "name": "Полоній",
+        "symbol": "Po",
+        "atomic_mass": 209,
+        "number": 84,
+        "period": 6
+    },
+    "Астат": {
+        "name": "Астат",
+        "symbol": "At",
+        "atomic_mass": 210,
+        "number": 85,
+        "period": 6
+    },
+    "Радон": {
+        "name": "Радон",
+        "symbol": "Rn",
+        "atomic_mass": 222,
+        "number": 86,
+        "period": 6
+
+    },
+    "Радій": {
+        "name": "Радій",
+        "symbol": "Ra",
+        "atomic_mass": 226,
+        "number": 88,
+        "period": 7
+    },
+    "Актиній": {
+        "name": "Актиній",
+        "symbol": "Ac",
+        "atomic_mass": 227,
+        "number": 89,
+        "period": 7
+    },
+    "Резерфордій": {
+        "name": "Резерфордій",
+        "symbol": "Rf",
+        "atomic_mass": 267,
+        "number": 104,
+        "period": 7
+    },
+    "Дубній": {
+        "name": "Дубній",
+        "symbol": "Db",
+        "atomic_mass": 268,
+        "number": 105,
+        "period": 7
+    },
+    "Сиборгій": {
+        "name": "Сиборгій",
+        "symbol": "Sg",
+        "atomic_mass": 271,
+        "number": 106,
+        "period": 7
+    },
+    "Борій": {
+        "name": "Борій",
+        "symbol": "Bh",
+        "atomic_mass": 270,
+        "number": 107,
+        "period": 7
+    },
+    "Гасій": {
+        "name": "Гасій",
+        "symbol": "Hs",
+        "atomic_mass": 277,
+        "number": 108,
+        "period": 7
+    },
+    "Майтнерій": {
+        "name": "Майтнерій",
+        "symbol": "Mt",
+        "atomic_mass": 276,
+        "number": 109,
+        "period": 7
+    },
+    "Унуннілій": {
+        "name": "Унуннілій",
+        "symbol": "Uun",
+        "atomic_mass": 290,
+        "number": 110,
+        "period": 7
+    },
+    "Церій": {
+        "name": "Церій",
+        "symbol": "Ce",
+        "atomic_mass": 140.12,
+        "number": 58,
+        "period": 6
+    },
+    "Празеодим": {
+        "name": "Празеодим",
+        "symbol": "Pr",
+        "atomic_mass": 140.91,
+        "number": 59,
+        "period": 6
+    },
+    "Неодим": {
+        "name": "Неодим",
+        "symbol": "Nd",
+        "atomic_mass": 144.24,
+        "number": 60,
+        "period": 6
+    },
+    "Прометій": {
+        "name": "Прометій",
+        "symbol": "Pm",
+        "atomic_mass": 145,
+        "number": 61,
+        "period": 6
+    },
+    "Самарій": {
+        "name": "Самарій",
+        "symbol": "Sm",
+        "atomic_mass": 150.36,
+        "number": 62,
+        "period": 6
+    },
+    "Європій": {
+        "name": "Європій",
+        "symbol": "Eu",
+        "atomic_mass": 152.0,
+        "number": 63,
+        "period": 6
+    },
+    "Гадоліній": {
+        "name": "Гадоліній",
+        "symbol": "Gd",
+        "atomic_mass": 157.25,
+        "number": 64,
+        "period": 6
+    },
+    "Тербій": {
+        "name": "Тербій",
+        "symbol": "Tb",
+        "atomic_mass": 158.93,
+        "number": 65,
+        "period": 6
+    },
+    "Диспрозій": {
+        "name": "Диспрозій",
+        "symbol": "Dy",
+        "atomic_mass": 162.5,
+        "number": 66,
+        "period": 6
+    },
+    "Гольмій": {
+        "name": "Гольмій",
+        "symbol": "Ho",
+        "atomic_mass": 164.93,
+        "number": 67,
+        "period": 6
+    },
+    "Ербій": {
+        "name": "Ербій",
+        "symbol": "Er",
+        "atomic_mass": 167.26,
+        "number": 68,
+        "period": 6
+    },
+    "Тулій": {
+        "name": "Тулій",
+        "symbol": "Tm",
+        "atomic_mass": 168.93,
+        "number": 69,
+        "period": 6
+    },
+    "Ітербій": {
+        "name": "Ітербій",
+        "symbol": "Yb",
+        "atomic_mass": 173.05,
+        "number": 70,
+        "period": 6
+    },
+    "Лютецій": {
+        "name": "Лютецій",
+        "symbol": "Lu",
+        "atomic_mass": 175.0,
+        "number": 71,
+        "period": 6
+    },
+        
+    "Францій": {
+        "name": "Францій",
+        "symbol": "Fr",
+        "atomic_mass": 223,
+        "number": 87,
+        "period": 7
+    },
+    "Торій": {
+        "name": "Торій",
+        "symbol": "Th",
+        "atomic_mass": 232.04,
+        "number": 90,
+        "period": 7
+    },
+    "Протактиній": {
+        "name": "Протактиній",
+        "symbol": "Pa",
+        "atomic_mass": 231.04,
+        "number": 91,
+        "period": 7
+    },
+    "Уран": {
+        "name": "Уран",
+        "symbol": "U",
+        "atomic_mass": 238.03,
+        "number": 92,
+        "period": 7
+    },
+    "Нептуній": {
+        "name": "Нептуній",
+        "symbol": "Np",
+        "atomic_mass": 237.0,
+        "number": 93,
+        "period": 7
+    },
+    "Плутоній": {
+        "name": "Плутоній",
+        "symbol": "Pu",
+        "atomic_mass": 244.0,
+        "number": 94,
+        "period": 7
+    },
+    "Америцій": {
+        "name": "Америцій",
+        "symbol": "Am",
+        "atomic_mass": 243.0,
+        "number": 95,
+        "period": 7
+    },
+    "Кюрій": {
+        "name": "Кюрій",
+        "symbol": "Cm",
+        "atomic_mass": 247.0,
+        "number": 96,
+        "period": 7
+    },
+    "Берклій": {
+        "name": "Берклій",
+        "symbol": "Bk",
+        "atomic_mass": 247.0,
+        "number": 97,
+        "period": 7
+    },
+    "Каліфорній": {
+        "name": "Каліфорній",
+        "symbol": "Cf",
+        "atomic_mass": 251.0,
+        "number": 98,
+        "period": 7
+    },
+    "Ейнштейній": {
+        "name": "Ейнштейній",
+        "symbol": "Es",
+        "atomic_mass": 252.0,
+        "number": 99,
+        "period": 7
+    },
+    "Фермій": {
+        "name": "Фермій",
+        "symbol": "Fm",
+        "atomic_mass": 257.0,
+        "number": 100,
+        "period": 7
+    },
+    "Менделевій": {
+        "name": "Менделевій",
+        "symbol": "Md",
+        "atomic_mass": 258.0,
+        "number": 101,
+        "period": 7
+    },
+    "Нобелій": {
+        "name": "Нобелій",
+        "symbol": "No",
+        "atomic_mass": 259.0,
+        "number": 102,
+        "period": 7
+    },
+    "Лоуренсій": {
+        "name": "Лоуренсій",
+        "symbol": "Lr",
+        "atomic_mass": 262.0,
+        "number": 103,
+        "period": 7
+    },
+    "Рентгеній": {
+        "name": "Рентгеній",
+        "symbol": "Rg",
+        "atomic_mass": 282.0,
+        "number": 111,
+        "period": 7
+    },
+    "Коперніцій": {
+        "name": "Коперніцій",
+        "symbol": "Cn",
+        "atomic_mass": 285.0,
+        "number": 112,
+        "period": 7
+    },
+    "Нихоній": {
+        "name": "Нихоній",
+        "symbol": "Nh",
+        "atomic_mass": 286.0,
+        "number": 113,
+        "period": 7
+    },
+    "Флеровій": {
+        "name": "Флеровій",
+        "symbol": "Fl",
+        "atomic_mass": 289.0,
+        "number": 114,
+        "period": 7
+    },
+    "Московій": {
+        "name": "Московій",
+        "symbol": "Mc",
+        "atomic_mass": 290.0,
+        "number": 115,
+        "period": 7
+    },
+    "Ліверморій": {
+        "name": "Ліверморій",
+        "symbol": "Lv",
+        "atomic_mass": 293.0,
+        "number": 116,
+        "period": 7
+    },
+    "Теннессин": {
+        "name": "Теннессин",
+        "symbol": "Ts",
+        "atomic_mass": 294.0,
+        "number": 117,
+        "period": 7
+    },
+    "Оганесон": {
+        "name": "Оганесон",
+        "symbol": "Og",
+        "atomic_mass": 294.0,
+        "number": 118,
+        "period": 7
+    }
+}
